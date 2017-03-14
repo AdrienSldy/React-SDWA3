@@ -136,3 +136,6 @@ Node.js | V8
 ## Check list atom :
 
 - cf. Packages list
+
+
+Adrien Sasia https://www.linkedin.com/in/adriensasia/
